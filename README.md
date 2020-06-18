@@ -1,10 +1,10 @@
-# mac_changer is a pyhton based tool which allows to change mac address of a linux
-environment .
+# mac_changer is a pyhton based tool which allows to change mac address of a linux environment
+ .
 
 
 
 
-How to use:
+#  How to use:
 
 
 @@@@@@@@@@@@   Installation @@@@@@@@@@@@@
