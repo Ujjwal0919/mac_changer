@@ -16,25 +16,25 @@ Pre requiste: Python3 and pip3 installed
 	      
 **********************         Installation *************************
 
-git-clone https://github.com/UjjwalSaini/mac_changer.git
+		git-clone https://github.com/UjjwalSaini/mac_changer.git
 
-cd mac_changer
+		cd mac_changer
 
-python3 mac_changer.py -options
+		python3 mac_changer.py -options
 
 
 Usage: mac_changer.py [options]
 
 Options:
 
-  -h, --help            show this help message and exit
-  
-  -i INTERFACE, --interface=INTERFACE
-  
-                        Enter the interface to change its mac value
-			
-  -m NEW_MAC, --mac=NEW_MAC
-  
-                        Enter the new mac address for the interface
+		  -h, --help            show this help message and exit
 
-   Omit the New_Mac option if you want a random mac address	
+		  -i INTERFACE, --interface=INTERFACE
+
+					Enter the interface to change its mac value
+
+		  -m NEW_MAC, --mac=NEW_MAC
+
+					Enter the new mac address for the interface
+
+		   Omit the New_Mac option if you want a random mac address	
