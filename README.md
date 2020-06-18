@@ -1,4 +1,4 @@
-# mac_changer is a pyhton based tool which allows to change mac address of a linux environment
+# mac_changer is a python based tool which allows to change mac address of a linux environment
  .
 
 
@@ -6,15 +6,15 @@
 
 #  How to use:
 
-
-@@@@@@@@@@@@   Installation @@@@@@@@@@@@@
-
 Pre requiste: Python3 and pip3 installed 
 	      sudo apt-get install python3 
 	      sudo apt-get install python3-pip
 	      sudo pip3 install get-nic		
-git-clone 
-
+	      
+**********************         Installation *************************
+git-clone https://github.com/UjjwalSaini/mac_changer.git
+cd mac_changer
+python3 mac_changer.py -options
 
 
 Usage: mac_changer.py [options]
