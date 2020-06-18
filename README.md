@@ -13,7 +13,9 @@ Pre requiste: Python3 and pip3 installed
 	      
 **********************         Installation *************************
 git-clone https://github.com/UjjwalSaini/mac_changer.git
+
 cd mac_changer
+
 python3 mac_changer.py -options
 
 
